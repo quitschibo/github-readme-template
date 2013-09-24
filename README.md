@@ -1,5 +1,6 @@
 Your project name
 ======================
+*Add some badges here, if you want. [about badges](../master/Badges.md)*
 
 *Insert a short description of your project and your motivation. What is it all about, what philosophy do you follow?*
 
