@@ -18,3 +18,6 @@ So here are some web services, which are really userful and have nice badges for
 
 ## Coverage Reporter
 * https://coveralls.io/
+
+## Remote Selenium Tests
+* https://saucelabs.com
