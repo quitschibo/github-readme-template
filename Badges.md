@@ -25,3 +25,6 @@ So here are some web services, which are really userful and have nice badges for
 
 ## Code Analysis
 * https://codeclimate.com
+
+## Package hosting
+* http://www.gemfury.com
