@@ -28,3 +28,4 @@ So here are some web services, which are really userful and have nice badges for
 
 ## Package hosting
 * http://www.gemfury.com
+* https://packagist.org/
