@@ -28,6 +28,9 @@ Your project name
 ## Getting help
 *Do you have an IRC channel, newsgroup or something similar?*
 
+## Status of project
+*Do you think it is ready for production? Or should it be just a proof of concept?*
+
 ## Contributers
 *It is nice to mention the contributers*
 
